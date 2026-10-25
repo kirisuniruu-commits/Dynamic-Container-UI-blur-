@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "storage": ["hopper", "dispenser", "dropper"],
+    "specialty": ["anvil", "enchant", "grindstone", "trade", "trading", "beacon"],
+    "processing": ["furnace", "smoker", "brewing"],
+    "crafting": ["crafting", "stonecutter", "loom", "smithing", "cartography"],
+    "chests": ["chest", "shulker", "barrel"],
+    "inventory": ["inventory"]
+  }
+}
