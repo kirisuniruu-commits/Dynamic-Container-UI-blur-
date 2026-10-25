@@ -1,0 +1,10 @@
+{
+  "type": "preload-native",
+  "name": "Dynamic Container UI Blur",
+  "author": "ChrisNiruu",
+  "version": "1.0.0",
+  "entry": "libdynamic_container_ui_blur.so",
+  "minecraft_versions": [],
+  "overwrite_files": ["resources/hooks.json", "resources/screens.json"],
+  "overwrite_folders": []
+}
